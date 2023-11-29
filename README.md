@@ -1,5 +1,6 @@
 ### Hi there 👋
 I'm Lawal Owolabi Yusuf. I am a Full Stack Web developer who speaks PHP, Python, Javascript and Vuejs as Language.
+
 Stacks: PHP, Python, Laravel, Vuejs, Codeigniter Framework, Laravel API, Javascript, Infrastructure as a Service (IaaS), AWS, REST APIs.
 
 I help to brands transform ideas into reality with results driven web development. To bring your business ideas to live, we need to speak.
